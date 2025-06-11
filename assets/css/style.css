@@ -45,10 +45,20 @@
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
 
-    img {
+    .img2 {
       width: 150px;
       border-radius: 10px;
       margin-bottom: 20px;
+    }
+    .img-conte {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-right: 20px;
+      height: 500px;
+      width: 500px;
+      
+
     }
 
     h1 {
